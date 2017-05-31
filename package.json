@@ -1,0 +1,22 @@
+{
+  "name": "module-loaders",
+  "version": "1.0.0",
+  "description": "Webpack tutorial from LearnCode.academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shrwnco@github.com/shrwnco/module-loaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrwnco/module-loaders/issues"
+  },
+  "homepage": "https://github.com/shrwnco/module-loaders#readme",
+  "dependencies": {
+    "webpack": "^2.6.1"
+  }
+}
